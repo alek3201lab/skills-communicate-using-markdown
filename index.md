@@ -11,3 +11,7 @@ from PIL import Image
 im = Image.open('a.jpg')
 im.save('b.png')
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Do Python project
+- [ ] Introduce myself to the world
